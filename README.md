@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my GitHub page
+
+My name is Patrick Dooley. I'm a computer science graduate from Columbus State University.
+You can check out my portfolio on my [GitHub User Page](OnionKnight8.github.io).
+If you would like to contact me, you can do so on my [LinkedIn](https://www.linkedin.com/in/dooley-patrick/) or [you can send me an email](mailto:patrick.l.dooley@gmail.com).
 
 <!--
 **OnionKnight8/OnionKnight8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
